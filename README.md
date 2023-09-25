@@ -6,11 +6,13 @@
 
 <h3 align="center"> Soy estudiante de <strong> programaion </strong> en la UTN FRSR <br> ¡Acompañame en mí progreso 👇!</h3> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santinonunez&hide_progress=true) 
+<!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santinonunez&layout=compact)
 ![](https://streak-stats.demolab.com?user=SantinoNunez&theme=github-dark-blue&locale=es&mode=weekly&card_width=479&sideNums=2C1DEB&border=0AEBDE&stroke=08E9EB&fire=EB1818)
+--->
 <div align="center">
   
-  ![Santino Nuñez GitHub stats](https://github-readme-stats.vercel.app/api?username=santinonunez&show_icons=true&theme=transparent&border=0AEBDE)
+  ![Santino Nuñez GitHub stats](https://github-readme-stats.vercel.app/api?username=santinonunez&show_icons=true&theme=transparent&border_color=0AEBDE)
 </div>
 
 <h1 align="center">¡Contactame!</h1>
